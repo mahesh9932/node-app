@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USERNAME": "manu",
+    "DB_PASSWORD": "manu",
+    "DB_NAME": "mern",
+    "SECRET_KEY": "supersecret_donot_share",
+    "GOOGLE_API_KEY": "AIzaSyCC3FbZOt4h2rtR0tZEvnhIRMAgKYHUmFI"
+  }
+}
